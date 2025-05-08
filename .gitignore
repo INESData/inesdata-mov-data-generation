@@ -91,4 +91,4 @@ target/
 .mypy_cache/
 
 # Dev config
-.config_dev.yaml
+config_dev.yaml
